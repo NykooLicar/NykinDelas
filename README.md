@@ -15,6 +15,6 @@ int main() {
 ```
 <div>
   <a href="https://ayo.so/nykoo">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=nykindelas&show_icons=true&theme=gruvbox&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nykindelas&layout=compact&langs_count=7&theme=gruvbox"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=nykoolicar&show_icons=true&theme=gruvbox&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nykoolicar&layout=compact&langs_count=7&theme=gruvbox"/>
 </div>
